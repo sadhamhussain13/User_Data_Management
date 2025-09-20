@@ -1,0 +1,69 @@
+
+/* ------------------------------------------------------------------------ 
+Updated CSS after edits */
+
+/* Background Canvas */
+#bg {
+position: fixed;
+top: 0;
+left: 0;
+z-index: -1;
+width: 100%;
+height: 100%;
+}
+
+/* General Page Styling */
+body {
+margin: 0;
+font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+color: #222;
+}
+
+/* Headings */
+h1, h2, .card-title {
+font-weight: 700;
+color: #222;
+}
+
+/* Table */
+.table {
+background: #ffffffd9;
+border-radius: 8px;
+overflow: hidden;
+}
+
+.table th {
+font-size: 0.95rem;
+}
+
+.table td {
+font-size: 0.9rem;
+}
+
+/* Buttons */
+.btn {
+border-radius: 6px;
+}
+
+/* Pagination */
+.pagination .page-link {
+color: #222;
+}
+.pagination .active .page-link {
+background-color: #0d6efd;
+border-color: #0d6efd;
+color: white;
+}
+
+/* Forms */
+.card {
+background: #ffffffd9;
+padding: 20px;
+border-radius: 8px;
+border: none;
+}
+
+.form-label {
+font-weight: 600;
+margin-bottom: 5px;
+}
