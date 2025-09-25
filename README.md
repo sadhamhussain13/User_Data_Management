@@ -25,8 +25,7 @@ The project demonstrates moving from a **local development environment** to a **
 
 ### 1. Clone Repository
 ### 2. Install Dependencies
-    ```bash
-    pip install -r requirements.txt
+     pip install -r requirements.txt
 ### 3. Configure Database
 ### 4. Run Flask Server
 
